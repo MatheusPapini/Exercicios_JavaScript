@@ -1,2 +1,2 @@
-## Exercícios de Java ##
-### Tarefas para desenvolver o conhecimento na linguagem de programação Java ###
+## Exercícios de JavaScript ##
+### Tarefas para desenvolver o conhecimento na linguagem JavaScript ###
